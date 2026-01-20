@@ -16,7 +16,7 @@
 
   - 💬 Tenho 23 anos, moro no Brasil e sou formado em Ciências da Computação. Estou em constante busca por aprendizado e crescimento na área de tecnologia.
 
-  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
 </details>
 
 <!-- Links -->
