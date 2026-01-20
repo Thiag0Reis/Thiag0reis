@@ -14,7 +14,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 23 anos e atualmente moro no Brasil. Recém formado em Ciências da Computação. Estou em busca de uma oportunidade de emprego.
+  - 💬 Tenho 23 anos, moro no Brasil e sou formado em Ciências da Computação. Estou em constante busca por aprendizado e crescimento na área de tecnologia.
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
