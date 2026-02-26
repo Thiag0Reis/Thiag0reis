@@ -30,14 +30,6 @@
   <img align="center" src="https://user-images.githubusercontent.com/68038931/147838988-0179a135-1d5f-4031-bc7c-3416f3286af9.gif" alt="Imagem">
 </p>
 
-  <!--spotfiy-->
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7kuyjb3kzwnkr1kvsvy3amj9q&cover_image=true&theme=novatorem&show_offline=false&background_color=f50000&interchange=false&profanity=false&bar_color=31b2dd&bar_color_cover=false" />
-  </a>
-</div>
-
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
